@@ -15,3 +15,8 @@
 •	Offers a valuable tool for organizations and institutions to enhance COVID-19 preventive measures.
 
 •	Can be further extended to include features like mask usage statistics and notifications for non-compliance.
+
+
+# Dataset
+![8242984](https://github.com/Jai-Doshi/face_mask_detection/assets/62877713/67fdb84a-c4a7-45f8-a9b0-cd5de7f2dbe2)
+[Download](https://drive.google.com/drive/folders/1mQSHCq4Y752Mycreh-4XqqIv3UnDywQB?usp=drive_link)
